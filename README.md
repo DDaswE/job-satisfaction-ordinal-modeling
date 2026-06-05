@@ -12,9 +12,9 @@ This project builds an ordinal logistic regression pipeline to predict `JobSat` 
 
 ## Problem
 
-The assignment focuses on the 2025 Stack Overflow Annual Developer Survey and asks for a supervised classification model that predicts a respondent's self-reported job satisfaction.
+This project uses the 2025 Stack Overflow Annual Developer Survey to build a supervised classification model that predicts a respondent's self-reported job satisfaction.
 
-> The target variable is `QID26` / `JobSat`, defined as "How satisfied are you in your current professional developer role?" Because job satisfaction is an ordered response rather than a continuous variable, the required model is ordinal logistic regression. The assignment also requires data cleaning, feature engineering, feature selection, model validation, hyperparameter tuning, performance comparison, and interpretation of domain-specific insights.
+> The target variable is `QID26` / `JobSat`, defined as "How satisfied are you in your current professional developer role?" Because job satisfaction is an ordered response rather than a continuous variable, the selected model is ordinal logistic regression. The modeling workflow also includes data cleaning, feature engineering, feature selection, model validation, hyperparameter tuning, performance comparison, and interpretation of domain-specific insights.
 
 ## Data
 
