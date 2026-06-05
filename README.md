@@ -21,7 +21,9 @@ This project builds an ordinal logistic regression pipeline to predict `JobSat` 
 
 ## Problem
 
-The project asks how well survey responses can predict developer job satisfaction on an ordered scale, and which features matter most after careful preprocessing.
+The objective of this machine learning analysis is to predict developer job satisfaction (`JobSat`) using the Stack Overflow Developer Survey.
+
+> Because job satisfaction is measured as an ordinal outcome rather than as a continuous variable, the analysis is treated as an ordinal classification task. Beyond building a predictive model, the analysis also aims to identify which survey attributes are most strongly associated with job satisfaction and to evaluate how reliably these patterns generalize from the training data to unseen test data.
 
 ## Data
 
