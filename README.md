@@ -2,9 +2,7 @@
 
 Ordinal classification and feature-engineering workflow for predicting developer job satisfaction from survey responses.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eN2KqnayHu_DYZ9wZhTelwpQD3uYyU17?usp=sharing) [GitHub Repo](https://github.com/DDaswE/job-satisfaction-ordinal-modeling)
-
-> Opening this notebook in Colab creates a working copy. The source notebook in GitHub remains unchanged unless a user already has write access to this repository.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eN2KqnayHu_DYZ9wZhTelwpQD3uYyU17?usp=sharing)
 
 ## Preview
 
